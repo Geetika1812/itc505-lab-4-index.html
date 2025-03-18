@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #fdf6e3; /* Warm beige background */
+    background-color: #f0f8ff; /* Light Alice Blue */
     color: #333333; /* Dark charcoal text */
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #800020; /* Deep Burgundy */
+    background-color: #add8e6; /* Light Blue */
     color: white;
     text-align: center;
     padding: 20px;
@@ -19,29 +19,13 @@ h1 {
 }
 
 h2 {
-    color: #ff6f61; /* Soft Coral */
+    color: #ffb6c1; /* Light Pink */
 }
 
 article {
-    background: #ffffff; /* White background for readability */
+    background: #fafad2; /* Light Goldenrod Yellow */
     margin: 20px auto;
     padding: 20px;
     max-width: 800px;
     border-radius: 8px;
-    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-#addendum {
-    background-color: #d8bfd8; /* Light Lavender */
-    padding: 15px;
-    border-radius: 8px;
-    margin-top: 20px;
-}
-
-footer {
-    background-color: #800020; /* Deep Burgundy */
-    color: white;
-    text-align: center;
-    padding: 10px;
-    margin-top: 20px;
-}
+    box-shadow: 0px 4px 8px rgba(0, 0, 0,
